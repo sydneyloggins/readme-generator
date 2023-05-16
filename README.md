@@ -7,7 +7,8 @@ This project presents users with prompts in the terminal to fill in in order to 
 
 ## Installation
 
-What this video to see the project in action: 
+What this video to see the project in action: [Module-9-video.webm](https://github.com/sydneyloggins/readme-generator/assets/125998308/394fd35c-bdf7-43de-b987-eb6a3e407423)
+
 
 ## Usage
 Screenshots: ![Screenshot 2023-05-15 at 6 19 38 PM](https://github.com/sydneyloggins/readme-generator/assets/125998308/3ffe124c-b24d-44cd-b348-a37836075211)
